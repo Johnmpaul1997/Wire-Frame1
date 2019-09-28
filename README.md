@@ -1,6 +1,8 @@
-#Wire-Frame-HW-1
+Wire-Frame-HW-1
 
-##Technologies Used
+The purpose of this project was to simply get some good practive on "CSS" and "HTML"
+
+Technologies Used
 -Visual Studio Code
 -HTML
 -CSS
@@ -9,4 +11,4 @@
 -GITBASH
 
 
-[Link to the finished project] 
+https://johnmpaul1997.github.io/Wire-Frame1/
